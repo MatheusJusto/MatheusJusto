@@ -1,6 +1,6 @@
 # Matheus aqui! 🤘
 
-Trabalhando com desenvolvimento Front-end desde 2018 e design desde 2015.
+Trabalhando com desenvolvimento Front-end desde 2018 e design desde 2015.<br/>
 Dando o meu melhor todos os dias para me tornar um dev melhor.
 
 ⚛️ <strong>HTML, CSS, JavaScript,  ReactJS e UI / UX</strong>

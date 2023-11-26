@@ -3,7 +3,7 @@
 Trabalhando com desenvolvimento Front-end desde 2018 e design desde 2015.<br/>
 
 
-⚛️ <strong>HTML, CSS, JavaScript,  ReactJS e UI / UX</strong>
+⚛️ <strong>HTML, CSS, JavaScript, ReactJS, Node e UI / UX</strong>
 <br/><br/>
 
 ### Um pouco mais sobre mim
